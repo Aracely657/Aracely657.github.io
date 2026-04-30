@@ -7,7 +7,7 @@ I am a computer science major at CSUF and I plan on graduating in 2029.
 
 * Lab 5, part 2
 
-  This was a favorite because it showed how to convert a decimal number into feet, inches, and eighths in seconds. I found it interesting how we used std::numeric_limits to check if a number was too big or too small for an int. Not only that but it allowed me to put into practice how to use trunc() and static_cast<int> to separate the integer and fractional part.
+  This was a favorite because it showed how to convert a decimal number into feet, inches, and eighths in seconds. I found it interesting how we used std::numeric_limits to check if a number was too big or too small for an integer. Not only that but it allowed me to put into practice how to use trunc() and static_cast<int> to separate the integer and fractional part.
 
 * Lab 6, part 2
 
