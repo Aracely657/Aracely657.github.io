@@ -4,7 +4,7 @@ This is my home page! My name is Aracely Ramirez and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Aracely657
+My GitHub page is http://github.com/Aracely657.
 
 ### CPSC 120
 
