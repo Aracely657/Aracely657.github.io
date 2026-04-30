@@ -1,9 +1,12 @@
+# Hello World
 
-# Aracely Ramirez's Portfolio
+This is my home page! My name is Aracely Ramirez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
 
-I am a computer science major at CSUF and I plan on graduating in 2029.
+## Computer Science Projects
 
-## Favorite CPSC 120L Labs
+My GitHub page is http://github.com/Aracely657.
+
+### CPSC 120
 
 * Lab 5, part 2
 
